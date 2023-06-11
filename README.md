@@ -52,4 +52,4 @@ It's just me. No biggity. Still just an egg. Rollin' around doing egg stuff.
 
 ## Acknowledgments
 
-- my own stubornness
+- my own stubbornness
