@@ -28,8 +28,8 @@ Users should be able to view the optimal layout for the component depending on t
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/join-our-community-make-friends-with-eggs-1cJdcQZyDL)
+- Live Site URL: (https://your-live-site-url.com)](https://bonniemira.github.io/JoiNoUrCoMMuNitY/)
 
 ### Built with
 
